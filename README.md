@@ -1,5 +1,4 @@
 <img align="center" alt="Coder GIF" src="https://indoanalytica.com/static/images/bannerr.gif" />
-&nbsp;
 <h2 align="center">
     Hello World 
     <img src="https://raw.githubusercontent.com/muhammad-usama12/muhammad-usama12/main/assets/wave.gif" 
@@ -8,8 +7,6 @@
          width="45" />
          I'm Usama!
 </h2>
-
-&nbsp;
 
 I recently graduated as a full-stack web developer from Lighthouse Labs. I am an ambitious and dedicated individual who's looking to grow and keep learning as that's not only fun but keeps me pushing to be a better coder and developer!
 
@@ -42,6 +39,5 @@ I recently graduated as a full-stack web developer from Lighthouse Labs. I am an
 <a href="https://storybook.js.org/" target="_blank" rel="noreferrer"> <img src="https://duncanleung.com/static/4754115ddd48b63d252f8014e9a86177/92ab1/storybook.png" alt="mysql" width="40" height="40"/> </a>
 
 <hr> </hr>
-&nbsp;
 
 ![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-usama12&show_icons=true&theme=github_dark)

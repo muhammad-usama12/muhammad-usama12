@@ -8,7 +8,7 @@
          I'm Usama!
 </h2>
 
-I recently graduated as a full-stack web developer from Lighthouse Labs. I am an ambitious and dedicated individual who's looking to grow and keep learning as that's not only fun but keeps me pushing to be a better coder and developer!
+I recently graduated as a full-stack web developer from Lighthouse Labs. I am an ambitious and hard-working individual who's looking to grow by learning the latest technologies while becoming proficient at my current tech stack. I have completed multiple projects (pinned below!) which gave me confidence to tackle other's and keep improving my skillset! 
 
 <hr> </hr>
 

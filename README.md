@@ -1,6 +1,6 @@
 <img align="center" alt="Coder GIF" src="https://indoanalytica.com/static/images/bannerr.gif" />
 <h2 align="center">
-    Hello World I'm Usama!
+    Hello World, I'm Usama!
         <img src="https://raw.githubusercontent.com/muhammad-usama12/muhammad-usama12/main/assets/wave.gif" 
          alt="Waving hand animated gif"
          height="45"

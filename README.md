@@ -1,14 +1,17 @@
 <img align="center" alt="Coder GIF" src="https://indoanalytica.com/static/images/bannerr.gif" />
 <h2 align="center">
-    Hello World 
-    <img src="https://raw.githubusercontent.com/muhammad-usama12/muhammad-usama12/main/assets/wave.gif" 
+    Hello World I'm Usama!
+        <img src="https://raw.githubusercontent.com/muhammad-usama12/muhammad-usama12/main/assets/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />
-         I'm Usama!
 </h2>
 
-As a recent graduate from Lighthouse Labs, I am excited to bring my skills as a full-stack web developer to a new opportunity. I am a driven and dedicated professional who is eager to expand my knowledge and expertise through working with the latest technologies. I have a proven track record of success, as demonstrated by the multiple projects I have completed, and I am confident in my ability to take on new challenges and continue to improve my skills. Check out some of my past work in the attached portfolio!
+## Full-Stack Developer 
+- ⚡ Portfolio Website: Coming Soon 🚧
+- 🔭 Check out my completed and ongoing projects pinned below!
+- 🌱 I’m currently pursuing AWS certification and creating new projects
+- 🥅 2023 Goals: Achieve AWS certifications, becoming proficient in my current tech stack, using it to develop and deploy high-performance, scalable, and reliable applications and services.
 
 <hr> </hr>
 

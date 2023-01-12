@@ -44,3 +44,4 @@
 <hr> </hr>
 
 ![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-usama12&show_icons=true&theme=github_dark)
+[![Usama's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=muhammad-usama12&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/muhammad-usama12/github-readme-stats#gh-dark-mode-only)

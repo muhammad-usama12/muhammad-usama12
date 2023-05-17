@@ -8,7 +8,7 @@
 </h2>
 
 ## Full-Stack Developer 
-- ⚡ Portfolio Website: <a href="https://www.muhammadusama.ca" target="blank" rel="noreferrer">muhammadusama.ca</a>
+- ⚡ Portfolio Website: <a href="https://www.muhammadusama.ca" target="_blank" rel="noreferrer">muhammadusama.ca</a>
 - 🔭 Check out my completed and ongoing projects pinned below!
 - 🌱 I’m currently pursuing AWS certification and creating new projects
 - 🥅 2023 Goals: Achieve AWS certifications, becoming proficient in my current tech stack, using it to develop and deploy high-performance, scalable, and reliable applications and services.
@@ -17,8 +17,8 @@
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammadusama12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-usama12" height="30" width="40" /></a>
-<a href="https://medium.com/@muhammad.usama12" target="blank"><img align="center" src="https://raw.githubusercontent.com/muhammad-usama12/muhammad-usama12/main/assets/Medium-Logo-Two-Color-Black-White-RGB%401x.png" alt="muhammad-usama12" height="30" width="" /></a>
+<a href="https://www.linkedin.com/in/muhammadusama12/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-usama12" height="30" width="40" /></a>
+<a href="https://medium.com/@muhammad.usama12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/muhammad-usama12/muhammad-usama12/main/assets/Medium-Logo-Two-Color-Black-White-RGB%401x.png" alt="muhammad-usama12" height="30" width="" /></a>
 
 </p>
 

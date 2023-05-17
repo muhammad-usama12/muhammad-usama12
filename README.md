@@ -8,7 +8,7 @@
 </h2>
 
 ## Full-Stack Developer 
-- ⚡ Portfolio Website: Coming Soon 🚧
+- ⚡ Portfolio Website: <a href="www.muhammadusama.ca" target="blank">muhammadusama.ca</a>
 - 🔭 Check out my completed and ongoing projects pinned below!
 - 🌱 I’m currently pursuing AWS certification and creating new projects
 - 🥅 2023 Goals: Achieve AWS certifications, becoming proficient in my current tech stack, using it to develop and deploy high-performance, scalable, and reliable applications and services.

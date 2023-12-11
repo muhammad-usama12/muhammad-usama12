@@ -11,7 +11,7 @@
 - ⚡ Portfolio Website: <a href="https://www.muhammadusama.ca" target="_blank" rel="noreferrer">muhammadusama.ca</a>
 - 🔭 Check out my completed and ongoing projects pinned below!
 - 🌱 I’m currently pursuing AWS certification and creating new projects
-- 🥅 2023 Goals: Achieve AWS certifications, becoming proficient in my current tech stack, using it to develop and deploy high-performance, scalable, and reliable applications and services.
+- 🥅 2023 Goals: Learn new technologies and enhance proficiency in my current tech stack. Utilize this knowledge to develop and deploy high-performance, scalable, and reliable applications and services.
 
 <hr> </hr>
 

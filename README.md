@@ -43,4 +43,4 @@
 
 <hr> </hr>
 
-![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-usama12&show_icons=true&theme=github_dark)
+<!-- ![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-usama12&show_icons=true&theme=github_dark) -->
